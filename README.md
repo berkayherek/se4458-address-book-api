@@ -2,8 +2,8 @@
 
 This repository contains the simple Address Book REST API project I prepared for the SE4458 course.
 
-- **Live Swagger Link:** `[NOT YET DEPLOYED - Update this after deployment]`
-- **Source Code (GitHub):** `[PASTE YOUR GITHUB REPO LINK HERE]`
+- **Live Swagger Link:** `https://se4458-address-book-api.onrender.com/api-docs`
+- **Source Code (GitHub):** `https://github.com/berkayherek/se4458-address-book-api`
 
 ---
 
